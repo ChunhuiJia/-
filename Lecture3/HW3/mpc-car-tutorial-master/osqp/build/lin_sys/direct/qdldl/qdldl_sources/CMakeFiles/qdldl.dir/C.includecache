@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lin_sys/direct/qdldl/qdldl_sources/include/qdldl.h
+qdldl_types.h
+../lin_sys/direct/qdldl/qdldl_sources/include/qdldl_types.h
+
+../lin_sys/direct/qdldl/qdldl_sources/include/qdldl_types.h
+limits.h
+-
+
+/media/jiachunhui/软件/BaiduNetdiskDownload/第三章约束优化/HW3_20220822_175717/HW3/mpc-car-tutorial-master/osqp/lin_sys/direct/qdldl/qdldl_sources/src/qdldl.c
+qdldl.h
+/media/jiachunhui/软件/BaiduNetdiskDownload/第三章约束优化/HW3_20220822_175717/HW3/mpc-car-tutorial-master/osqp/lin_sys/direct/qdldl/qdldl_sources/src/qdldl.h
+
